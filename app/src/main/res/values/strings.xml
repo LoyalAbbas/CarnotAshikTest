@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AshikCarnotTest</string>
+    <string name="check_internet">Please check your internet connection.</string>
+</resources>
